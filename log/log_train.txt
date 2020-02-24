@@ -1,0 +1,19 @@
+{'gpu': 0, 'model': 'pointnet2_cls_ssg', 'log_dir': 'log', 'num_point': 1024, 'max_epoch': 251, 'batch_size': 2, 'learning_rate': 0.001, 'momentum': 0.9, 'optimizer': 'adam', 'decay_step': 200000, 'decay_rate': 0.7, 'normal': False}
+pid: 4304
+**** EPOCH 000 ****
+2020-02-24 16:55:00.160853
+ ---- batch: 050 ----
+mean loss: 4.297684
+accuracy: 0.050000
+ ---- batch: 100 ----
+mean loss: 3.859027
+accuracy: 0.070000
+ ---- batch: 150 ----
+mean loss: 4.159988
+accuracy: 0.060000
+ ---- batch: 200 ----
+mean loss: 4.097139
+accuracy: 0.100000
+ ---- batch: 250 ----
+mean loss: 3.884661
+accuracy: 0.120000
